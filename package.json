@@ -1,0 +1,37 @@
+{
+  "name": "nlbn-cli",
+  "version": "1.0.0",
+  "private": false,
+  "description": "多种模板集合，你想要的快乐这里都有！",
+  "main": "index.js",
+  "bin": {
+    "nlbn-cli": "bin.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "vue",
+    "reactnative",
+    "electorn",
+    "taro",
+    "template"
+  ],
+  "author": {
+    "name": "changs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zerocsss/nlbn-cli.git"
+  },
+  "dependencies": {
+    "commander": "^3.0.2",
+    "download-git-repo": "^2.0.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^7.0.0",
+    "mkdirp": "^1.0.4",
+    "ora": "^4.0.2"
+  }
+}
