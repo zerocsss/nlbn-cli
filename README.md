@@ -3,8 +3,9 @@
 
 * 💪 cool cool col
 * 🔥 react vue3 reactnative taro electorn...
-
 ---
+
+已集成模板：react vue3
 
 ## Install
 With command

@@ -1,6 +1,6 @@
 {
   "name": "nlbn-cli",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "private": false,
   "description": "多种模板集合，你想要的快乐这里都有！",
   "main": "index.js",
