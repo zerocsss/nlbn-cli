@@ -11,6 +11,10 @@ With command
 ```bash
 $ yarn add nlbn-cli
 ```
+create app
+```bash
+$ nlbn-cli create <app-name>
+```
 
 
 
